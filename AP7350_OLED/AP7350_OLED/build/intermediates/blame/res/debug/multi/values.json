@@ -1,0 +1,2336 @@
+[
+    {
+        "outputFile": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 39,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 39,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 39,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 39,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 37,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 37,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 37,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 37,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 35,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endColumn": 35,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 52,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 47,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 47,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 46,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endColumn": 46,
+                        "endOffset": 566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endColumn": 40,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 648,
+                        "endColumn": 40,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endColumn": 41,
+                    "endOffset": 587
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 41,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 592,
+                    "endColumn": 49,
+                    "endOffset": 637
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 473,
+                        "endColumn": 49,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 642,
+                    "endColumn": 36,
+                    "endOffset": 674
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 36,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 679,
+                    "endColumn": 52,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 52,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 36,
+                    "endOffset": 764
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 36,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 769,
+                    "endColumn": 58,
+                    "endOffset": 823
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 58,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 828,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1114
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1119,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\EV3\\CommMonitor\\AP7350_OTG\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 39,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 39,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 39,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 39,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 37,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 37,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 37,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 37,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 35,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endColumn": 35,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 52,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 47,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 47,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 46,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endColumn": 46,
+                        "endOffset": 566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endColumn": 40,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 648,
+                        "endColumn": 40,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endColumn": 41,
+                    "endOffset": 587
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 41,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 592,
+                    "endColumn": 49,
+                    "endOffset": 637
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 473,
+                        "endColumn": 49,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 642,
+                    "endColumn": 36,
+                    "endOffset": 674
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 36,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 679,
+                    "endColumn": 52,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 52,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 36,
+                    "endOffset": 764
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 36,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 769,
+                    "endColumn": 58,
+                    "endOffset": 823
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 58,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 828,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1114
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1119,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 39,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 39,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 37,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 37,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 35,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 52,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 48,
+                    "endOffset": 458
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 48,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 463,
+                    "endColumn": 46,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 40,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 41,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 49,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 36,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endColumn": 52,
+                    "endOffset": 728
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 733,
+                    "endColumn": 36,
+                    "endOffset": 765
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 770,
+                    "endColumn": 58,
+                    "endOffset": 824
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 829,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 907
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 912,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 979
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 39,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 39,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 39,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 373,
+                        "endColumn": 39,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 37,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 37,
+                        "endOffset": 367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 37,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 37,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 35,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 35,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 52,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 48,
+                    "endOffset": 458
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 48,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 463,
+                    "endColumn": 46,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endColumn": 46,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 40,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 649,
+                        "endColumn": 40,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 41,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 41,
+                        "endOffset": 728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 49,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endColumn": 49,
+                        "endOffset": 519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 36,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 36,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endColumn": 52,
+                    "endOffset": 728
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 52,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 733,
+                    "endColumn": 36,
+                    "endOffset": 765
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 36,
+                        "endOffset": 643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 770,
+                    "endColumn": 58,
+                    "endOffset": 824
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 58,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 829,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1115
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1120,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 39,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 39,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 39,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 39,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 37,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 37,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 37,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 37,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 35,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endColumn": 35,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 52,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 47,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 47,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 46,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endColumn": 46,
+                        "endOffset": 566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endColumn": 40,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 648,
+                        "endColumn": 40,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endColumn": 41,
+                    "endOffset": 587
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 41,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 592,
+                    "endColumn": 49,
+                    "endOffset": 637
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 473,
+                        "endColumn": 49,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 642,
+                    "endColumn": 36,
+                    "endOffset": 674
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 36,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 679,
+                    "endColumn": 52,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 52,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 36,
+                    "endOffset": 764
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 36,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 769,
+                    "endColumn": 58,
+                    "endOffset": 823
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 58,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 828,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1114
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1119,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 39,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 39,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 37,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 37,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 35,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 52,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 48,
+                    "endOffset": 458
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 48,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 463,
+                    "endColumn": 46,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 40,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 41,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 49,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 36,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endColumn": 52,
+                    "endOffset": 728
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 733,
+                    "endColumn": 36,
+                    "endOffset": 765
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 770,
+                    "endColumn": 58,
+                    "endOffset": 824
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 829,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 907
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 912,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 979
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 39,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 39,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 39,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 373,
+                        "endColumn": 39,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 37,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 37,
+                        "endOffset": 367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 37,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 37,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 35,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 35,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 52,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 48,
+                    "endOffset": 458
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 48,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 463,
+                    "endColumn": 46,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endColumn": 46,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 40,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 649,
+                        "endColumn": 40,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 41,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 41,
+                        "endOffset": 728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 49,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endColumn": 49,
+                        "endOffset": 519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 36,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 36,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endColumn": 52,
+                    "endOffset": 728
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 52,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 733,
+                    "endColumn": 36,
+                    "endOffset": 765
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 36,
+                        "endOffset": 643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 770,
+                    "endColumn": 58,
+                    "endOffset": 824
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 58,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 829,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1115
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1120,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

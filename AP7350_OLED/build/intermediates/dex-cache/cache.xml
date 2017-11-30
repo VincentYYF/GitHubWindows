@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\yangy\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="D:\GitHubWindows\AP7350_OLED\AP7350_OLED\build\intermediates\pre-dexed\debug\gson-2.4_a275a81b188fd9c3c0b69bc51000dc7c7d71602e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\GitHubWindows\AP7350_OLED\AP7350_OLED\build\intermediates\pre-dexed\debug\support-v4-19.1.0_73b9883bfda7e9a6ae205d0e99c174e73ba72aaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHubWindows\AP7350_OLED\AP7350_OLED\src\main\jniLibs\armeabi\core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="42fd0eaeee98eb9e1c8cfbcef742a34b54522c4c">
+        <dex dex="D:\GitHubWindows\AP7350_OLED\AP7350_OLED\build\intermediates\pre-dexed\debug\core_b78a3a8055d5199323c5f3be91adebd2c6b6e431.jar" />
+    </item>
+
+</items>

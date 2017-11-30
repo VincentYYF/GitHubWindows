@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OTG\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\EV3\\CommMonitor\\AP7350_OTG\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\EV3\\CommMonitor\\AP7350_OTG\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\AP7350_M1_APP\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\EV3\\AP7350_OTG\\AP7350_OTG\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\AP7350_M1_APP\\AP7350_OLED\\AP7350_OLED\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\AP7350_M1_APP\\AP7350_GPIO\\AP7350_OLED\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
