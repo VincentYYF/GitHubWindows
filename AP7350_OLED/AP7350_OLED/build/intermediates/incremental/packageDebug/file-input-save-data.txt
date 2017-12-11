@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Nov 30 14:41:33 CST 2017
+#Fri Dec 01 10:37:05 CST 2017
 5.base=D\:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\res\\resources-debug.ap_
 42.base=D\:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\res\\resources-debug.ap_
 32.set=ANDROID_RESOURCE
@@ -93,7 +93,7 @@ count=70
 22.file=D\:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxhdpi-v4\\ic_up.png
 32.file=D\:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\ic_down_selected.png
 34.set=DEX
-26.file=D\:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\ic_up_selected.png
+26.file=D\:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
 64.base=D\:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\res\\resources-debug.ap_
 23.set=ANDROID_RESOURCE
 36.file=D\:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-hdpi-v4\\ic_down_selected.png
@@ -146,7 +146,7 @@ count=70
 17.file=D\:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxhdpi-v4\\ic_center.png
 0.base=D\:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\res\\resources-debug.ap_
 44.set=ANDROID_RESOURCE
-27.file=D\:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+27.file=D\:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\ic_up_selected.png
 65.base=D\:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\res\\resources-debug.ap_
 33.set=ANDROID_RESOURCE
 37.file=D\:\\GitHubWindows\\AP7350_OLED\\AP7350_OLED\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxhdpi-v4\\ic_up_selected.png
